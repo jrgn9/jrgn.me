@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jrgn9/categories/</loc>
+    <loc>https://github.com/jrgn9/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/jrgn9/</loc>
+    <loc>https://github.com/jrgn9/</loc>
   </url><url>
-    <loc>http://localhost:1313/jrgn9/tags/</loc>
+    <loc>https://github.com/jrgn9/tags/</loc>
   </url>
 </urlset>
