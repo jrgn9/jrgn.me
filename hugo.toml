@@ -1,4 +1,14 @@
-baseURL = 'https://github.com/jrgn9'
-languageCode = 'no-NB'
-title = 'jrgn.me'
+baseURL = 'https://jrgn.me'
+title = 'jrgn'
 theme = 'risotto-0.4.0'
+languageCode = 'en'
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "gruvbox-light"
+
+# More settings here: https://github.com/joeroe/risotto/blob/main/exampleSite/config.toml
