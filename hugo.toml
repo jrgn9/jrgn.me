@@ -1,14 +1,59 @@
 baseURL = 'https://jrgn.me'
 title = 'jrgn'
+author = 'Jørgen Skontorp'
 theme = 'risotto-0.4.0'
 languageCode = 'en'
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
 
 [params]
 noindex = false
 
 [params.theme]
 palette = "gruvbox-light"
+
+# Sidebar: about/bio
+[params.about]
+title = "jrgn"
+description = "yes? no? maybe? I don't know? can you repeat the question?"
+logo_image = "static/favicon-16x16.png"
+
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/jrgn9"
+
+[[params.socialLinks]]
+icon = "ai ai-orcid"
+title = "ORCID"
+url = "https://orcid.org/0000-0001-2345-6789"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
 
 # More settings here: https://github.com/joeroe/risotto/blob/main/exampleSite/config.toml
