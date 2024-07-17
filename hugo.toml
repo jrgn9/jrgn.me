@@ -19,7 +19,7 @@ palette = "gruvbox-light"
 [params.about]
 title = "jrgn"
 description = "yes? no? maybe? I don't know? can you repeat the question?"
-logo_image = "static/favicon-16x16.png"
+logo_image = "./static/favicon-16x16.png"
 
 # Sidebar: social links
 # Available icon sets:
@@ -32,23 +32,30 @@ title = "GitHub"
 url = "https://github.com/jrgn9"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+icon = "fa-brands fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/jrgn9"
 
 [menu]
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 20
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 10
+    weight = 20
+
+  [[menu.main]]
+    identifier = "keep internet weird"
+    name = "Keep the Internet Weird"
+    url = "/weird/"
+    weight = 20
+
 
 
 [taxonomies]
