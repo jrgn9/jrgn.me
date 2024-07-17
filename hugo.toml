@@ -1,11 +1,13 @@
 baseURL = 'https://jrgn.me'
 title = 'jrgn'
 author = 'Jørgen Skontorp'
+copyright = 'jrgn, 2024'
 theme = 'risotto-0.4.0'
-languageCode = 'en'
+languageCode = 'en-us'
 DefaultContentLanguage = "en"
 contentDir = 'content'
 enableInlineShortcodes = true
+ignoreErrors = ["error-remote-getjson"]
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
@@ -20,7 +22,7 @@ palette = "gruvbox-light"
 [params.about]
 title = "jrgn"
 description = "yes? no? maybe? I don't know? can you repeat the question?"
-logo_image = "./static/favicon-16x16.png"
+logo = "favicon-32x32.png"
 
 # Sidebar: social links
 # Available icon sets:
@@ -42,19 +44,19 @@ url = "https://linkedin.com/in/jrgn9"
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "content/blog/"
+    url = "/blog/"
     weight = 20
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "content/projects/"
+    url = "/projects/"
     weight = 20
 
   [[menu.main]]
-    identifier = "keep internet weird"
+    identifier = "weird"
     name = "Keep the Internet Weird"
-    url = "content/weird/"
+    url = "/weird/"
     weight = 20
 
 [taxonomies]

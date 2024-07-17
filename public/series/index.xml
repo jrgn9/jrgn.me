@@ -5,7 +5,8 @@
     <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on jrgn</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>jrgn, 2024</copyright>
     <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
