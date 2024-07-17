@@ -1,4 +1,6 @@
-# [jrgn.me](https://jrgn.me)
+
+# [jrgn.me](https://jrgn.me) <img align="left" height="42" src="./static/favicon-32x32.png"> 
+
 My personal website created with [Hugo](https://gohugo.io/getting-started/quick-start/) 
 and the [risotto theme](https://risotto.joeroe.io/). Deployed to GitHub Pages with [Hugo Deploy GitHub Pages](https://github.com/marketplace/actions/hugo-deploy-github-pages).
 
