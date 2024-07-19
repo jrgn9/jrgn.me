@@ -22,7 +22,7 @@ palette = "gruvbox-light"
 [params.about]
 title = "jrgn"
 description = "yes? no? maybe? I don't know? can you repeat the question?"
-logo = "profile.png"
+logo_image = "profile.png"
 
 # Sidebar: social links
 # Available icon sets:
