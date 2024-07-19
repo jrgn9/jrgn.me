@@ -22,7 +22,7 @@ palette = "gruvbox-light"
 [params.about]
 title = "jrgn"
 description = "yes? no? maybe? I don't know? can you repeat the question?"
-logo = "favicon-32x32.png"
+logo = "profile.png"
 
 # Sidebar: social links
 # Available icon sets:
@@ -54,15 +54,15 @@ url = "https://linkedin.com/in/jrgn9"
     weight = 2
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 3
-
-  [[menu.main]]
     identifier = "weird"
     name = "Keep the Internet Weird"
     url = "/weird/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 4
 
 [taxonomies]
