@@ -14,14 +14,14 @@
       <link>https://jrgn.me/about/cheater/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://jrgn.me/about/cheater/</guid>
-      <description>Cheater is a simple program for printing and managing your own cheat sheets to print in terminal. For those like me, who always forget commands and stuff. Inspired by tldr and Cheaty. Written in Bash.&#xA;Cheater is licensed with GNU General Public License v3&#xA;Writing icons created by Smashicons - Flaticon&#xA;Cheater is made by Jørgen Skontorp.</description>
+      <description>Cheater is a simple program for printing and managing your own cheat sheets to print in terminal. For those like me, who always forget commands and stuff. Inspired by tldr and Cheaty. Written in Bash.&#xA;Cheater is licensed with GNU General Public License v3&#xA;Writing icons created by Smashicons - Flaticon&#xA;Cheater is made by me, Jørgen Skontorp.</description>
     </item>
     <item>
       <title>Plog</title>
       <link>https://jrgn.me/about/plog/</link>
       <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://jrgn.me/about/plog/</guid>
-      <description>plog is a command line tool for creating project logs and entries from CLI. Keep track of projects (or anything) by having simple log files. Perfect for large school projects that require progress documentation. Written in Bash.</description>
+      <description>plog is a command line tool for creating project logs and entries from CLI. Keep track of projects (or anything) by having simple log files. Perfect for large school projects that require progress documentation. Written in Bash.&#xA;This project is licensed with GNU General Public License v3&#xA;Tractor icons created by Futuer - Flaticon&#xA;plog is made by me, Jørgen Skontorp</description>
     </item>
   </channel>
 </rss>
