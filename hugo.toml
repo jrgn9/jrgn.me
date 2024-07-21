@@ -27,8 +27,13 @@ logo_image = "/images/profile.png"
 
 # Sidebar: social links
 # Available icon sets:
-# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid')
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:hello@jrgn.me"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
@@ -64,5 +69,14 @@ url = "https://linkedin.com/in/jrgn9"
 category = "categories"
 tag = "tags"
 series = "series"
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
 
 # More settings here: https://github.com/joeroe/risotto/blob/main/exampleSite/config.toml
