@@ -22,3 +22,6 @@ go.work
 
 # IntelliJ
 .idea
+
+# Public, since we are building through GitHub Actions
+public/
