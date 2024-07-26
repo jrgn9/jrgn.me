@@ -1,10 +1,11 @@
-+++
-title = 'Keeping the internet weird'
-date = 2024-07-24T14:52:41+02:00
-author = "Jørgen Skontorp"
-summary = "About enshittification, the rot economy, the corporate internet and my project for keeping the internet weird."
-draft = false
-+++
+---
+title: 'Keeping the internet weird'
+date: 2024-07-24T14:52:41+02:00
+author: "Jørgen Skontorp"
+summary: "About enshittification, the rot economy, the corporate internet and my project for keeping the internet weird."
+draft: false
+tags: ["weird", "opinion", "enshittification", "web"]
+---
 I've been kind of obsessed by the state of the internet lately. And I've been wanting to share my obsession for a while. Both writing about it, but also through the project I have called [keep the internet weird](/weird/).
 
 ## Enshittification
