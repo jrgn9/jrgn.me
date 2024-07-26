@@ -15,7 +15,7 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-{{< figure align=center src="/images/rooms.png" alt="A screenshot of the Rooms website being shown on different screens" height="264" width="431" >}}
+{{< figure align=center src="/images/rooms.png" alt="A screenshot of the Rooms website being shown on different screens" height="464" width="631" >}}
 
 Are you the type who likes to create houses in The Sims? Or did you like to decorate your room in Habbo Hotel when you were a kid? Or do you simply love to design and tweak stuff? Well, then this game is for you! [Rooms](https://rooms.xyz/) is a game where you can create and browse interactive rooms in a nostalgic 8-bit world. 
 
