@@ -22,7 +22,7 @@ params:
   description: "jrgn's homepage and blog"
   author: "Jørgen Skontorp"
   images: ["images/jrgn-cover-dark.png"]
-  # DateFormat: 
+  DateFormat: "" # Can't get this to work
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   mainSections: # choose what to be visible on home page
