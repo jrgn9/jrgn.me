@@ -1,8 +1,14 @@
-+++
-title = 'About me'
-date = 2024-07-21
-draft = false
-+++
+---
+title: 'About me'
+date: 2024-07-21
+draft: false
+showToc: false
+ShowReadingTime: false
+hidemeta: true
+ShowPostNavLinks: false
+ShowWordCount: false
+ShowRssButtonInSectionTermList: false
+---
 
 {{< figure src="/images/me.jpg" alt="A photo of me. I have glasses, a beard, floral shirt and a hat" height="406" width="360" align=center >}}
 
