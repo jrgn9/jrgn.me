@@ -107,9 +107,9 @@ params:
 
   cover:
     hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
+    hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-    responsiveImages: false # false to reduce generation time and size
+    responsiveImages: true # false to reduce generation time and size
     linkFullImages: false # enable: hyperlinks to the full image size on post pages
 
   #editPost:
