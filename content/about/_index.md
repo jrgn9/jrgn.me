@@ -4,12 +4,13 @@ date = 2024-07-21
 draft = false
 +++
 
-{{< figure src="/images/me.jpg" alt="A photo of me. I have glasses, a beard, floral shirt and a hat" height="250" width="250" >}}
+{{< figure src="/images/me.jpg" alt="A photo of me. I have glasses, a beard, floral shirt and a hat" height="406" width="360" align=center >}}
 
 Hi, my name is Jørgen Skontorp! I'm a nerd and a musician in my thirties, living in Oslo.
 
-## In short
-```
+***
+
+## ⚡ In short
 * Bachelor's degree in computer science at Oslo Metropolitan University
 * Bachelor's degree in elementary school teaching, 
   and worked over five years as a teacher
@@ -19,7 +20,8 @@ Hi, my name is Jørgen Skontorp! I'm a nerd and a musician in my thirties, livin
   and all that jazz
 * Love the outdoors, especially the forest 🌲
 * Opinionated leftist 🚩🏴
-```
+
+***
 
 ## Experience and education
 
