@@ -11,7 +11,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["about", "blog", "weird"]
 
 minify:
   disableXML: true
@@ -107,10 +106,10 @@ params:
   #    SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
     hiddenInSingle: true # hide on single page
-    responsiveImages: true # false to reduce generation time and size
+    responsiveImages: false # false to reduce generation time and size
     linkFullImages: false # enable: hyperlinks to the full image size on post pages
 
   #editPost:
@@ -128,7 +127,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     limit: 20 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content", "description"]
+    keys: ["title", "permalink", "summary", "content", "description", "tags"]
 
 menu:
   main:

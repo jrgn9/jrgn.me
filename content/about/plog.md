@@ -13,10 +13,9 @@ ShowWordCount: false
 cover:
     image: "/images/plog.png" # image path/url
     alt: "plog logo. A plow with the words 'plog'" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    #caption: "<text>" # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
-    responsiveImages: true
 ---
 
 {{< figure src="/images/plog.png" alt="plog logo. A plow with the words 'plog'" height="250" width="250" >}}

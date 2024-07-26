@@ -13,10 +13,9 @@ ShowWordCount: false
 cover:
     image: "/images/cheater_logo.png" # image path/url
     alt: "Cheater logo. A pencil and some notes with the words 'Cheater'" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    #caption: "<text>" # display caption under cover
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
-    responsiveImages: true
 ---
 
 {{< figure src="/images/cheater_logo.png" alt="Cheater logo. A pencil and some notes with the words 'Cheater'" height="250" width="250" >}}
